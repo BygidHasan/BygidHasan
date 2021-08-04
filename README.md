@@ -47,3 +47,7 @@
 <br />
 
 ---
+
+[facebook]: https://www.facebook.com/bygid.hasan
+[instagram]: https://www.instagram.com/bygidhasan
+
