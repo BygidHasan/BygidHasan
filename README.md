@@ -49,5 +49,5 @@
 ---
 
 [facebook]: https://www.facebook.com/bygid.hasan
-[instagram]: https://www.instagram.com/bygidhasan
+[linkedin]: https://www.linkedin.com/in/bygid-hasan/
 
