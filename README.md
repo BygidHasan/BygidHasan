@@ -13,7 +13,7 @@
 
 - 📫 Contactt me at **bygidhasan7@gmail.com**
 
-- 📄 My [Portfolio](https://portfolio-nu-vert-12.vercel.app/)
+- 📄 My [Portfolio](https://portfolio-mdbygidhasan.vercel.app/)
 
 - ⚡ Fun fact => **I like travelling and sketching**
 
