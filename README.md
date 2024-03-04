@@ -3,19 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bygidhasan&label=Profile%20views&color=0e75b6&style=flat" alt="bygidhasan" /> </p>
 
-- 🔭 I’m currently working on [PDF Editor](https://github.com/BygidHasan/pdf-editor)
+- 🔭 Currently working on [PDF Editor](https://github.com/BygidHasan/pdf-editor)
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 Building **NextJS projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/BygidHasan/](https://github.com/BygidHasan/)
 
 - 💬 Ask me about **any full stack technologies**
 
-- 📫 How to reach me **bygidhasan6@gmail.com**
+- 📫 Contactt me at **bygidhasan7@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/BygidHasan/portfolio/blob/main/MD%20Bygid%20Hasan.pdf](https://github.com/BygidHasan/portfolio/blob/main/MD%20Bygid%20Hasan.pdf)
+- 📄 My [Portfolio](https://portfolio-nu-vert-12.vercel.app/)
 
-- ⚡ Fun fact **I like travelling and sketching**
+- ⚡ Fun fact => **I like travelling and sketching**
 
 <h3 align="left">Progress in online judges:</h3>
 <p align="left">
